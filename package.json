@@ -7,6 +7,9 @@
   "author": "Cameron <cameron@biteable.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "eslint -c eslintrc.json test/*.js"
+  },
   "devDependencies": {
     "eslint": ">=4.12.1",
     "eslint-config-standard": "11.0.0-beta.0",
