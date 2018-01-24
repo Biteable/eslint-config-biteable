@@ -1,7 +1,9 @@
 {
-  "extends": "standard",
-
+  "extends": "semistandard",
+  
   "rules": {
+    "semi": [2, "always"],
+    "no-extra-semi": 2,
     "max-len": [
       "error",
       {
