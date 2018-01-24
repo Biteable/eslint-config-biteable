@@ -1,0 +1,28 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Biteable ESLint config",
+  "main": "index.js",
+  "repository": "https://github.com/Biteable/eslint-config-biteable",
+  "author": "Cameron <cameron@biteable.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": ">=4.12.1",
+    "eslint-config-semistandard": "^12.0.0",
+    "eslint-config-standard": "11.0.0-beta.0",
+    "eslint-plugin-import": ">=2.2.0",
+    "eslint-plugin-node": ">=5.2.1",
+    "eslint-plugin-promise": ">=3.5.0",
+    "eslint-plugin-standard": ">=3.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=4.12.1",
+    "eslint-config-semistandard": "^12.0.0",
+    "eslint-config-standard": "11.0.0-beta.0",
+    "eslint-plugin-import": ">=2.2.0",
+    "eslint-plugin-node": ">=5.2.1",
+    "eslint-plugin-promise": ">=3.5.0",
+    "eslint-plugin-standard": ">=3.0.0"
+  }
+}
