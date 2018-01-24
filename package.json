@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "eslint-config-biteable",
   "version": "1.0.0",
   "description": "Biteable ESLint config",
   "main": "index.js",
