@@ -10,7 +10,7 @@ Biteable's ESLint config based on [standard](https://standardjs.com/).
 - **120 char line width**
 - **Semicolons**
 - **No space after function name**
-- **Arrow functions require parenthesis**
+- **Arrow functions require parentheses**
 
 ## Install
 
